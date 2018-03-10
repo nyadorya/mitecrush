@@ -1,0 +1,14 @@
+{
+  "name": "jp.echopeace.mitecrash",
+  "version": "201803101100",
+  "displayName": "Mite Crash",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {}
+  },
+  "dependencies": {
+    "cordova-android": "~7.0.0"
+  }
+}

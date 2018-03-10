@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="jp.echopeace.mitecrash" version="201803101100" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Mite Crash</name>
+    <description>
+        You crash mites.
+    </description>
+    <author email="echo10q@gmail.com" href="http://">
+        echo10q
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="phonegap-version" value="cli-8.0.0" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="Orientation" value="portrait" />
+    <engine name="android" spec="~7.0.0" />
+</widget>
