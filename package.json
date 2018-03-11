@@ -9,6 +9,7 @@
     "plugins": {}
   },
   "dependencies": {
-    "cordova-android": "~7.0.0"
+    "cordova-android": "~7.0.0",
+    "phina.js": "git+https://github.com/phinajs/phina.js.git"
   }
 }
