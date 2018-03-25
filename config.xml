@@ -8,7 +8,12 @@
         echo10q
     </author>
     <content src="index.html" />
+    <platform name="android">
+    </platform>
+    <platform name="ios">
+    </platform>
     <access origin="*" />
+    <access subdomains="true" uri="*" />
     <preference name="phonegap-version" value="cli-8.0.0" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="Orientation" value="portrait" />
